@@ -1,3 +1,5 @@
 # Hextronix
 
-Fun little project using Trongate
+Fun little project using [Trongate Framework](https://trongate.io/)
+
+
